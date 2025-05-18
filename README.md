@@ -9,6 +9,6 @@ This is the frontend of the CSV task project. This part is a simple single respo
 
 # Getting Started with Create React App
 
-1. Clone the Repository -> git clone https://github.com/Petretooo/sirma-ui.git
+1. Clone the Repository -> git clone https://github.com/Petretooo/petar-angelov-employees-ui.git
 2. Install Dependencies -> npm install
 3. Start the application -> npm start
